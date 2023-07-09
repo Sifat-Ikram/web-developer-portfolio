@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+    
+}
+nav li{
+    list-style: none;
+    margin-right: 52px;
+    
+}
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
+.btn-primary{
+    border: 0;
+   padding: 13px;
+   border-radius: 5px;
+   background-color: orangered;
+   color: white;
+   font-weight: 200;
+   font-size: 16px 30px;
+
+}
