@@ -31,8 +31,16 @@ nav a{
     background-color: #FFF8F3;
 }
 .banner{
+    justify-content: space-between;
     align-items: center;
     display: flex;
+    background-image: url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.bn-img{
+    width: 500px;
+    height: 500px;
 }
 .bn-text{
     display: block;
