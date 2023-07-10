@@ -47,3 +47,25 @@ nav a{
     width: 35%;
     padding-left: 20px;
 }
+.desc{
+    
+    width: 50%;
+    padding: 0% 25%;
+}
+.intro{
+    display: flex;
+    padding-left: 10%;
+
+}
+.ident{
+    display: inline-block;
+    margin: 25px;
+    padding-left: 20px;
+}
+.hnam{
+    color: #757575;
+    margin-left: 55px;
+}
+.pname{
+    color: #474747;
+}
